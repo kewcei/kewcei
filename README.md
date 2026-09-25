@@ -2,17 +2,12 @@
   <img src="./banner.svg" alt="Kelcei" width="100%">
 </p>
 
-<p align="center">
-  <i>✦ hi, i'm kelcei (she/her) ✦ </i>
-</p>
+<img src="./header-about.svg" alt="about me" width="100%">
 
----
+hi, i'm kelcei, a software and web developer from the UK.
 
-### ☾ about me
-- ✦ currently working on [nothing]
-- ✦ currently learning golang microservices
-- ✦ ask me about python, i dare you.
+<img src="./divider.svg" alt="" width="100%">
 
-<p align="center">
-  <sub>✧ ˚ · . thanks for stopping by . · ˚ ✧</sub>
-</p>
+<img src="./header-projects.svg" alt="things i've made" width="100%">
+
+- [project name](https://github.com/your-username/project) : one line about it
