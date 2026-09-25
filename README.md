@@ -3,18 +3,15 @@
 </p>
 
 <p align="center">
-  <i>hi, i'm kelcei (she/her) ✦ perpetual motion machine</i>
+  <i>✦ hi, i'm kelcei (she/her) ✦ </i>
 </p>
 
 ---
 
 ### ☾ about me
-- ✦ currently working on …
-- ✦ currently learning …
-- ✦ ask me about …
-
-### ☾ things i've made
-<!-- pin your favourite repos on your profile, or list them here -->
+- ✦ currently working on [nothing]
+- ✦ currently learning golang microservices
+- ✦ ask me about python, i dare you.
 
 <p align="center">
   <sub>✧ ˚ · . thanks for stopping by . · ˚ ✧</sub>
