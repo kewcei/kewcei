@@ -2,8 +2,6 @@
   <img src="./banner.svg" alt="Kelcei" width="100%">
 </p>
 
-<img src="./header-about.svg" alt="about me" width="100%">
-
 hi, i'm kelcei, a software and web developer from the UK.
 
 <img src="./divider.svg" alt="" width="100%">
